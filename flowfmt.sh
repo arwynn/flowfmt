@@ -3,7 +3,7 @@
 if [ $1 == '-h' ] ; then
     echo "split and trim pcaps"
                         echo " "
-                        echo "./flows.sh [options]"
+                        echo "./flowfmt.sh [options]"
                         echo " "
                         echo "options:"
                         echo "-h       show this help message"
